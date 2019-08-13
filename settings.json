@@ -1,0 +1,29 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "editor.matchBrackets": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 16,
+    
+    // ESlint configuration
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true
+        }
+    ],
+
+    "php.executablePath": "C:\\laragon\\bin\\php\\php-7.2.19-Win32-VC15-x64\\php.exe" 
+
+}
