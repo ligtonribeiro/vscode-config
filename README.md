@@ -1,2 +1,2 @@
-# Seeting JSON VSCode
+# Settings JSON VSCode
 # Windows Terminal Config
