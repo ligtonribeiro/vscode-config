@@ -1,29 +1,28 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
+    "java.semanticHighlighting.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Dracula",
+    "editor.minimap.enabled": false,
     "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "400",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
-    "editor.lineHeight": 24,
-    "editor.minimap.enabled": false,
-    "editor.renderWhitespace": "all",
-    "editor.wordWrap": "on",
-    "editor.matchBrackets": false,
-    "vsicons.dontShowNewVersionMessage": true,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
-    "liveServer.settings.donotShowInfoMsg": true,
     "editor.renderLineHighlight": "gutter",
+    "editor.cursorStyle": "line",
     "terminal.integrated.fontSize": 16,
-    
-    // ESlint configuration
-    "eslint.validate": [
-        {
-            "language": "javascript",
-            "autoFix": true
-        }
-    ],
-
-    "php.executablePath": "C:\\laragon\\bin\\php\\php-7.2.19-Win32-VC15-x64\\php.exe" 
-
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\wsl.exe",
+    "terminal.integrated.cursorStyle": "underline",
+    "window.menuBarVisibility": "default",
+    "python.pythonPath": "/usr/bin/python3",
+    "workbench.startupEditor": "newUntitledFile",
+    "python.testing.pytestEnabled": true,
+    "python.testing.cwd": "",
+    "editor.renderControlCharacters": false,
+    "sync.gist": "d94c26d231573772eeec8268361fb4ef",
+    "workbench.colorTheme": "Absolute Black",
+    "remote.extensionKind": {
+        "ms-azuretools.vscode-docker": "workspace"
+    },
+    "emmet.syntaxProfiles": { "javascript": "jsx" },
+    "emmet.includeLanguages": { "javascript": "javascriptreact" },
 }
